@@ -1,0 +1,11 @@
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\bin\Debug\дз10.exe.config
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\bin\Debug\дз10.exe
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\bin\Debug\дз10.pdb
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.csproj.AssemblyReference.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.csproj.SuggestedBindingRedirects.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.Properties.Resources.resources
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.csproj.GenerateResource.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.csproj.CoreCompileInputs.cache
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.exe
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.pdb
+D:\UserFiles\Desktop\учебня\oop\gitfolder\kp_task10_files\дз10\obj\Debug\дз10.Form1.resources
